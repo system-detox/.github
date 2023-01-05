@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+This is a collection of popular open source projects which have been detoxed from unnecessary and invasive cruft, including but not limited to, systemd, Rust etc. 
+
+
+Typically these projects are based on top of Debian Linux - This is being replaced with Devuan Linux, a Debian distro where systemd hard requirements have been removed and you have a modular system with an init system of choice.
+This not only increases stability and dependability, it also reduces overall maintenance.
 <!--
 
 **Here are some ideas to get you started:**
