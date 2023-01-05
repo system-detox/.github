@@ -4,7 +4,7 @@ This is a collection of popular open source projects which have been detoxed fro
 
 
 Typically these projects are based on top of Debian Linux - This is being replaced with Devuan Linux, a Debian distro where systemd hard requirements have been removed and you have a modular system with an init system of choice.
-This not only increases stability and dependability, it also reduces overall maintenance.
+This not only increases stability and dependability, it also reduces overall maintenance, as it restores modularity and removes hard depdendencies.
 <!--
 
 **Here are some ideas to get you started:**
